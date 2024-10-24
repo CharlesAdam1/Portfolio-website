@@ -1,0 +1,35 @@
+.container {
+    background-color: aquamarine;
+}
+
+body {
+    background-color:darkmagenta;
+    margin-left: 5px;
+}
+
+.container3 {
+    background-color: chocolate;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 2px solid firebrick;
+    
+
+}
+
+.col-md-6 {
+    border: 15px solid black;
+    background-color: darkkhaki;
+}
+
+.col-md-3 {
+    border: 5px blue solid;
+}
+
+h5 {
+    text-shadow: 3px 3px 4px green;
+    color: black;
+    text-transform: uppercase;
+    font-size: 100%;
+}
